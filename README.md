@@ -1,4 +1,4 @@
-# my_app
+# Assignment 2 Flutter - Michael Metry - 100747141
 
 A new Flutter project.
 
