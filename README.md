@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Name: Michael Metry
+Student Number: 100747141
+Mobile Application and Development - Assignment 2 - Flutter Layout
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
