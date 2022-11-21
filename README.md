@@ -1,6 +1,10 @@
-# my_app
+# Assignment 2 Flutter Layout - Michael Metry - 100747141
 
 A new Flutter project.
+
+Video Link:
+https://streamable.com/za9wgv
+
 
 ## Getting Started
 
