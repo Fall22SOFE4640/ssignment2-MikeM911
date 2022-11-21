@@ -184,7 +184,7 @@ class _FavoriteWidgetState extends State<FavoriteWidget> {
 // #docregion _FavoriteWidgetState-fields
 }
 void Call(){
-  FlutterPhoneDirectCaller.callNumber("123-456-7890");
+  FlutterPhoneDirectCaller.callNumber("123-456-7891");
 }
 
 void share(){
