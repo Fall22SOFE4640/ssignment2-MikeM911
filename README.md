@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-Name: Michael Metry
-Student Number: 100747141
+Name: Michael Metry\n
+Student Number: 100747141\n
 Mobile Application and Development - Assignment 2 - Flutter Layout
 
 ## Getting Started
